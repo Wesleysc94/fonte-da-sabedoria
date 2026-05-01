@@ -1,4 +1,4 @@
-.vercel/
+.vercel
 .DS_Store
 Thumbs.db
 qa-*.png
